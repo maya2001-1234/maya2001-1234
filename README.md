@@ -1,9 +1,8 @@
 <h1 align="left">Hi there👋! My name is Thimaya and I'm an undergraduate student at Sabaragamuwa University of SrilLanka.</h1>
 
-###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  />
----
+<img align="center" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  />
+
 ###
 ---
 <div align="left">
