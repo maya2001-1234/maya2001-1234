@@ -5,7 +5,7 @@
 🎓 A Software Engineering student at Sabaragamuwa University of Sri Lanka.<br>
 💻 I love turning ideas into interactive and meaningful digital experiences.<br>
 🌱 Currently exploring web development, UI/UX design, and creative coding.<br>
-✨ Always learning, always building — one commit at a time.
+✨ Always learning, always building.
 <br>
 <br><br>
   “Code with creativity, build with purpose.” 💖 </p>
