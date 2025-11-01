@@ -1,4 +1,4 @@
-<h1 align="center"><blink>Hi there👋</blink></h1>
+<h1 align="center">Hi there👋</h1>
 <h2 align="center">💫I’m Thimaya Nelomi</h2>
 <br>
 <p align="center">
