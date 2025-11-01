@@ -39,7 +39,7 @@
 <br>
 <br>
 <br>
-
+---
 <h1>GitHub Status:</h1>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=maya2001-1234&show_icons=true&locale=en" alt="maya2001-1234" /></p>
 <br>
