@@ -22,18 +22,13 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maya2001-1234&show_icons=true&locale=en" alt="maya2001-1234" /></p>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maya2001-1234&" alt="maya2001-1234" /></p>
-<br>
 
