@@ -1,5 +1,9 @@
 <h1 align="center">Hi there👋, I'm Thimaya.</h1>
 <h3 align="center">I'm an undergraduate student at Sabaragamuwa University of Sri Lanka </h3>
+<br>
+<br>
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maya2001-1234&label=Profile%20views&color=0e75b6&style=flat" alt="maya2001-1234" /> </p>
 
