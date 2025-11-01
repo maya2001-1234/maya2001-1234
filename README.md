@@ -43,7 +43,6 @@
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=maya2001-1234&show_icons=true&locale=en" alt="maya2001-1234" /></p>
 <br>
 <br>
-<br>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=maya2001-1234&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="maya2001-1234" /></p>
 
