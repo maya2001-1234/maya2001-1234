@@ -7,7 +7,8 @@
 🌱 Currently exploring web development, UI/UX design, and creative coding.<br>
 ✨ Always learning, always building — one commit at a time.
 <br>
-“Code with creativity, build with purpose.” 💖 </p>
+<br><br>
+  “Code with creativity, build with purpose.” 💖 </p>
 
 <br>
 <p align="center"><img align="center" height="200" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  /></p>
