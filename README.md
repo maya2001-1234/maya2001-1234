@@ -1,5 +1,13 @@
 <h1 align="center">Hi there👋, I'm Thimaya.</h1>
-<h3 align="center">I'm an undergraduate student at Sabaragamuwa University of Sri Lanka </h3>
+<h2 align="center">💫 Hi there! I’m Thimaya Nelomi</h2>
+<br>
+<p align="center">
+🎓 A Software Engineering student at Sabaragamuwa University of Sri Lanka
+💻 I love turning ideas into interactive and meaningful digital experiences.
+🌱 Currently exploring web development, UI/UX design, and creative coding.
+✨ Always learning, always building — one commit at a time.
+<br>
+“Code with creativity, build with purpose.” 💖 </p>
 
 <br>
 <p align="center"><img align="center" height="200" width="200" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  /></p>
