@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Thimaya.</h1>
-<h2 align="center">💫 Hi there! I’m Thimaya Nelomi</h2>
+<h1 align="center">Hi there👋</h1>
+<h2 align="center">💫I’m Thimaya Nelomi</h2>
 <br>
 <p align="center">
 🎓 A Software Engineering student at Sabaragamuwa University of Sri Lanka.<br>
