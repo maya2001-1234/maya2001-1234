@@ -1,12 +1,10 @@
 <h1 align="center">Hi there👋, I'm Thimaya.</h1>
 <h3 align="center">I'm an undergraduate student at Sabaragamuwa University of Sri Lanka </h3>
+
 <br>
+<img align="center" height="150" width="150" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  />
 <br>
-<br>
-<img align="center" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"  />
-<br>
-<br>
-<br>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maya2001-1234&label=Profile%20views&color=0e75b6&style=flat" alt="maya2001-1234" /> </p>
 
