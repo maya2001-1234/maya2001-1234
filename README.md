@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maya2001-1234&label=Profile%20views&color=0e75b6&style=flat" alt="maya2001-1234" /> </p>
 
 
-- 🌱 I’m currently learning and working using **python, JavaScript, CSS, HTML**
+- 🌱 I’m currently learning and working using **python, JavaScript, CSS, HTML, C**
 
 - 📫 How to reach me **nelomayax@gmail.com**
 
